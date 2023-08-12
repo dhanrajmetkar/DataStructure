@@ -30,4 +30,7 @@ public class Firstoccurance {
 
         return ans;
     }
+
+
+
 }
